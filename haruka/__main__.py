@@ -22,13 +22,13 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, My Name is {}!
 
-My [Sexy Husband](https://t.me/mad_noob)
+[My Sexy Husband](https://t.me/mad_noob)
 
-Please Support My Group @madassociation
+Group @madassociation
 
-Click /help or Help button below to find out more about how to use me to my full potential.
-"""
+[Click here to add me in your groups](https://telegram.me/Bhumi_Pednekar_Bot?startgroup=add)
 
+Click /help....
 
 IMPORTED = {}
 MIGRATEABLE = []
