@@ -28,7 +28,7 @@ Group @madassociation
 
 Click /help....
 
-I'm built in python3, using the python-telegram-bot library 
+I'm group manager bot 🃏 😍 😈
 
 IMPORTED = {}
 MIGRATEABLE = []
