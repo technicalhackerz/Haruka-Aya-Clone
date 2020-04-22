@@ -26,9 +26,9 @@ PM_START = """Hello {}, My Name is {}!
 
 Group @madassociation
 
-[Click here to add me in your groups](https://telegram.me/Bhumi_Pednekar_Bot?startgroup=add)
-
 Click /help....
+
+I'm built in python3, using the python-telegram-bot library 
 
 IMPORTED = {}
 MIGRATEABLE = []
